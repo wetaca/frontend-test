@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "yarn": "^1.19.1"
+  },
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
