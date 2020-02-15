@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "yarn": "^1.19.1"
+    "yarn": "^1.22.0"
   },
   "dependencies": {
     "graphql-yoga": "^1.18.3"
